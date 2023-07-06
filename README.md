@@ -39,7 +39,8 @@ Other Technologies : `Git`,`Docker`,`CI`,`Nix`,`Cloud Services`,`Serverless Appl
 
 
   <!--img src="https://stats.milovangudelj.com/api/top-langs?username=jay-davisphem&show_icons=true&locale=en&theme=onedark&layout=compact" alt="ptr1337" /--></p>
-
+LONGEST STREAKS
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bovage&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 You can also find me on:
 * [Twitter as @oluw4femi](https://twitter.com/oluw4femi)
 * [GitHub as @jay-davisphem (you are here)](https://github.com/jay-davisphem)
