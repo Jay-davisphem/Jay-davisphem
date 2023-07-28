@@ -26,7 +26,10 @@ I am having special interest in Computer Science, Systems, Compilers<br>
 I am presently reading Operating Systems The Pieces by Proffessor Remzi, I love the book and I am looking forward to the end.
 I use Ubuntu and Windows OS
 
-I'm familiar with : `Python`, `Javascript`, `Java`, `HTML`, `Bash`
+I'm familiar with : `Python`, `Javascript/nodejs`, `Java`, `HTML`, `Bash` and `C`
+
+### Libraries and Frameworks
+ReactJs, NextJS, Expressjs, Django, Drf, AstroJS, Framer Motion
 
 Currently Learning : `Embedded Systems, AI in IoTs`
 
