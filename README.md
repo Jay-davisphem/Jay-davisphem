@@ -22,13 +22,13 @@ I am a student. I like tinkering with stuff and creating new things.<br>
 Developing APIs, web services, frontend applications, tools, scripts, and memes, Editing stuff. <br>
 I am having special interest in Computer Science, Systems, Compilers<br>
 
-### 🍎 I am currently working on more full stack web applications to increase my chance for job interviews<br>
+### 🍎 I am currently working on more full stack web applications<br>
 I am presently reading Operating Systems The Pieces by Proffessor Remzi, I love the book and I am looking forward to the end.
 I use Ubuntu and Windows OS
 
 I'm familiar with : `Python`, `Javascript`, `Java`, `HTML`, `Bash`
 
-Currently Learning : `More C, C++ & Linux`
+Currently Learning : `Embedded Systems, AI in IoTs`
 
 Other Technologies : `Git`,`Docker`,`CI`,`Nix`,`Cloud Services`,`Serverless Applications`,`Heroku, Vercel`,`Browser Automation`
 <p>
