@@ -23,15 +23,14 @@ Developing APIs, web services, frontend applications, tools, scripts, and memes,
 I am having special interest in Computer Science, Systems, Compilers<br>
 
 ### 🍎 I am currently working on more full stack web applications<br>
-I am presently reading Operating Systems The Pieces by Proffessor Remzi, I love the book and I am looking forward to the end.
-I use Ubuntu and Windows OS
+I am presently reading System Design Interview- An Insider's Guide by Alex Xu, I love the book and I am looking forward to the end.
+I use Linux//Ubuntu and also familiar with Windows OS
 
-I'm familiar with : `Python`, `Javascript/nodejs`, `Java`, `HTML`, `Bash` and `C`
+I'm solve problems with : `Python`, `Javascript/nodejs/reactjs`, `Java`, `HTML`, `Bash` and `Rust`
 
 ### Libraries and Frameworks
-ReactJs, NextJS, Expressjs, Django, Drf, AstroJS, Framer Motion
+ReactJs, NextJS, Expressjs, Django, Drf, AstroJS, Framer Motion, Actix Web, Rocket
 
-Currently Learning : `Embedded Systems, AI in IoTs`
 
 Other Technologies : `Git`,`Docker`,`CI`,`Nix`,`Cloud Services`,`Serverless Applications`,`Heroku, Vercel`,`Browser Automation`
 <p>
