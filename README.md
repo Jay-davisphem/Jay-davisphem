@@ -44,7 +44,7 @@ Other Technologies : `Git`,`Docker`,`CI`,`Nix`,`Cloud Services`,`Serverless Appl
 LONGEST STREAKS
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bovage&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 You can also find me on:
-* [Twitter as @oluw4femi](https://twitter.com/oluw4femi)
+* [Twitter as @davisphem](https://twitter.com/davisphem)
 * [GitHub as @jay-davisphem (you are here)](https://github.com/jay-davisphem)
 * [LinkedIn](https://linkedin.com/in/davisphem)
 * [Dev.to](https://dev.to/davisphem)
