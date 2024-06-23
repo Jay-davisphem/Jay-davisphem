@@ -9,7 +9,7 @@
     <br />
       
   <p align="center">
-      <a href="https://davisphem.me" target="_blank">
+      <a href="https://davidoluwafemi.vercel.app" target="_blank">
       Website (davisphem.me)</a> | <a href="mailto:davidoluwafemi178@gmail.com">Email me</a> <br>
       
 </p>
