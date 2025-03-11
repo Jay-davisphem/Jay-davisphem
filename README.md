@@ -26,7 +26,7 @@ I am having special interest in Computer Science, Systems, Compilers<br>
 I am presently reading System Design Interview- An Insider's Guide by Alex Xu, I love the book and I am looking forward to the end.
 I use Linux//Ubuntu and also familiar with Windows OS
 
-I'm solve problems with : `Python`, `Javascript/nodejs/reactjs`, `Java`, `HTML`, `Bash` and `Rust`
+I'm solve problems with : `Python`, `C/C++` `Javascript/nodejs/reactjs`, `Java`, `HTML`, `Bash` and `Rust`
 
 ### Libraries and Frameworks
 ReactJs, NextJS, Expressjs, Django, Drf, AstroJS, Framer Motion, Actix Web, Rocket
