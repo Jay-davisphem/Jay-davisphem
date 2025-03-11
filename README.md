@@ -5,7 +5,7 @@
   <h3 align="center">ABOUT David Oluwafemi (davisphem)</h3>
   
   <p align="center">
-    Student, Self-taught Hobby Developer
+    Backend Engineer, DBMSes Internals enthusiast
     <br />
       
   <p align="center">
