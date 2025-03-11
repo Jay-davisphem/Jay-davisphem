@@ -21,6 +21,7 @@
 I am a student. I like tinkering with stuff and creating new things.<br>
 Developing APIs, web services, frontend applications, tools, scripts, and memes, Editing stuff. <br>
 I am having special interest in Computer Science, Systems, Compilers<br>
+I built <a href='sandsstores.com'>sandsstores.com</a>, <a href='teknova.ng'>teknova.ng</a> and lots more backend services for clients. 
 
 ### 🍎 I am currently working on more full stack web applications<br>
 I am presently reading System Design Interview- An Insider's Guide by Alex Xu, I love the book and I am looking forward to the end.
